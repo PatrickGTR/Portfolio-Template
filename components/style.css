@@ -1,0 +1,74 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: darkgrey;
+}
+
+section {
+    padding: 20px;
+    font-size: 15px;
+    color: black;
+}
+
+footer {
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+footer a {
+    color: rgb(23, 162, 184);
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+}
+
+.heart {
+    color:red;
+}
+
+.logo {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    padding: 5px;
+}
+
+
+
+.navbar-style {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+
+.nav-center {
+    margin: auto;
+}
+
+.navbaricon-style {
+    margin-right: 10px;
+}
+
+.content-outbox {
+    border-radius: 5px;
+    background-color: #f1f1f1;
+}
+
+.content-inbox {
+    margin-top: 25px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.content-title {
+    font-size: 25px;
+    padding: 20px;
+    text-align: left;
+    color: rgb(23, 162, 184)
+}
+
+.content-title h1 {
+    line-height: 0;
+    margin-top: 20px;
+}
