@@ -31,7 +31,7 @@ export const HeaderContent = ({ title }) => {
 const Navlinks = () => {
     const links = [
         {
-            Name: "Home",
+            Name: "Home",   
             Path: "/",
             Icon: MdHome
         },
